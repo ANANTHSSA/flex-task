@@ -130,7 +130,7 @@ h2,h1{
 .content{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	align-content: center;
 	width:30%;
@@ -144,35 +144,35 @@ h2,h1{
 .content1{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	width: 30%;
 	align-content: flex-start;
 }.content2{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	width: 30%;
 	align-content: flex-end;
 }.content3{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	width: 30%;
 	align-content: space-around;
 }.content4{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	width: 30%;
 	align-content: space-between;
 }.content5{
 	flex-wrap: wrap;
 	display: flex;
-	border: 1px solid orange;
+	border: 1px solid #fff;
 	height:150px;
 	width: 30%;
 	align-content: space-evenly;
